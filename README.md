@@ -1,2 +1,2 @@
 # os242
-Flori Andrea Ng - OS - Universitas Indonesia '24
+## Flori Andrea Ng - OS - Universitas Indonesia '24
