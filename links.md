@@ -11,10 +11,12 @@ permalink: LINKS/
   The site where you'll find everything you'll need for this course!
 * [Scele](https://scele.cs.ui.ac.id/) ---
   A quick way to get back to your learning management system.
-
+* [Stack Overflow](https://stackoverflow.com/) ---
+  Stack Overflow sana Stack Overflow sini
+  
 ### PROGRAMMING LANGUAGES
 * [Linux Crash Course: Learn the "man" command](https://youtu.be/7BG-Devm7sA?si=2CWh7JXeHqfdGzLY) ---
-  Learn the basics of the man command, quick and easy!
+  Learn the basics of the man command.
 * [Linux Crash Course: awk](https://youtu.be/oPEnvuj9QrI?si=5UueTkolz_2UqzKf) ---
   Learn about the awk command.
 * [Linux Crash Course: The sed command](https://youtu.be/nXLnx8ncZyE?si=oL_ORaGFZOQ6TeYM) ---
@@ -40,7 +42,7 @@ permalink: LINKS/
 
 ### GIT
 * [Git Tutorial for Dummies](https://youtu.be/mJ-qvsxPHpY?si=OSMydLQvuzKUTuVV) ---
-  An introduction to the sed command.
+  Self-explanatory video title! 
 
 <br>
 <br>
