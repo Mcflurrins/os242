@@ -6,17 +6,42 @@ permalink: LINKS/
 
 # LINKS
 
-* [Operating Systems](https://os.vlsm.org/){:target="_blank"} ---
-  This site contains links to lecture materials, exam questions, and laboratory materials.
-* [System Programming](https://sp.vlsm.org/){:target="_blank"} ---
-  This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
-* [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/){:target="_blank"} ---
-  The Deadline is 7 (seven) days after the assignment was announced.
-* [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
-  Slides with LaTeX sources code.
-* [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
-Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
+### ACADEMIC
+* [Operating Systems](https://os.vlsm.org/) ---
+  The site where you'll find everything you'll need for this course!
+* [Scele](https://scele.cs.ui.ac.id/) ---
+  A quick way to get back to your learning management system.
+
+### PROGRAMMING LANGUAGES
+* [Linux Crash Course: Learn the "man" command](https://youtu.be/7BG-Devm7sA?si=2CWh7JXeHqfdGzLY) ---
+  Learn the basics of the man command, quick and easy!
+* [Linux Crash Course: awk](https://youtu.be/oPEnvuj9QrI?si=5UueTkolz_2UqzKf) ---
+  Learn about the awk command.
+* [Linux Crash Course: The sed command](https://youtu.be/nXLnx8ncZyE?si=oL_ORaGFZOQ6TeYM) ---
+  An introduction to the sed command.
+* [Learn Regex in 20 minutes](https://youtu.be/rhzKDrUiJVk?si=xYm1ADpYr7CY8iw9) ---
+  A comprehensive guide to regular expressions!
+
+### SOFTWARE LICENSING
+* [The AV1 Video Codec](https://youtu.be/qubPzBcYCTw?si=4tjaUKjUumP3mB0e) ---
+  Learn about the AV1 Video Codec that was touched on in Week 1's slides from Timothy B. Terriberry himself!
+* [Free Software or Open Source Software? Is There a Difference?](https://youtu.be/Qyb5KZC7d6s?si=_PPzRO0vf1TktDqa) ---
+  This is the video which really made the concept of free software and open source software click for me. 
+* [What is Copyleft?](https://youtu.be/6Xky8HTqaZo?si=MOkWW3fUKW2VBs5_) ---
+  Quick 3-minute explanation!
+
+### VIRTUALIZATION AND CLOUD COMPUTING
+* [What is a Hypervisor?](https://youtu.be/LMAEbB2a50M?si=txovbQswxpCvVkSp) ---
+  The most understandable video of what a hypervisor is for me.
+* [Virtualization Explained](https://youtu.be/UBVVq-xz5i0?si=PtMNX2qApMFcjTuw) ---
+  Learn more about virtualization. 
+* [Cloud Computing Explained](https://youtu.be/_a6us8kaq0g?si=sIpkb86NBM_9HqF5) ---
+  Learn about cloud computing.
+
+### GIT
+* [Git Tutorial for Dummies](https://youtu.be/mJ-qvsxPHpY?si=OSMydLQvuzKUTuVV) ---
+  An introduction to the sed command.
+
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
