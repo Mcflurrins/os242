@@ -35,7 +35,7 @@ permalink: LINKS/
 ### CYBERSECURITY 
 * [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=XPewqnlNtayGt-JK) ---
   Jump straight into learning cybersecurity.
-  
+ 
 ### VIRTUALIZATION AND CLOUD COMPUTING
 * [What is a Hypervisor?](https://youtu.be/LMAEbB2a50M?si=txovbQswxpCvVkSp) ---
   The most understandable video of what a hypervisor is for me.
