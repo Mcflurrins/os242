@@ -6,7 +6,7 @@ permalink: LINKS/
 
 # LINKS
 
-### ACADEMIC
+### ACADEMIC - WEEK 01
 * [Operating Systems](https://os.vlsm.org/) ---
   The site where you'll find everything you'll need for this course!
 * [Scele](https://scele.cs.ui.ac.id/) ---
@@ -32,10 +32,6 @@ permalink: LINKS/
 * [What is Copyleft?](https://youtu.be/6Xky8HTqaZo?si=MOkWW3fUKW2VBs5_) ---
   Quick 3-minute explanation!
 
-### CYBERSECURITY 
-* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=XPewqnlNtayGt-JK) ---
-  Jump straight into learning cybersecurity.
- 
 ### VIRTUALIZATION AND CLOUD COMPUTING
 * [What is a Hypervisor?](https://youtu.be/LMAEbB2a50M?si=txovbQswxpCvVkSp) ---
   The most understandable video of what a hypervisor is for me.
@@ -48,6 +44,14 @@ permalink: LINKS/
 * [Git Tutorial for Dummies](https://youtu.be/mJ-qvsxPHpY?si=OSMydLQvuzKUTuVV) ---
   Self-explanatory video title! 
 
+### CYBERSECURITY - WEEK 02
+* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=XPewqnlNtayGt-JK) ---
+  Jump straight into learning cybersecurity.
+* [Recording Week02: Protection and Security](https://www.youtube.com/watch?v=QpmAKN9j2ks) ---
+  A video that was referred to me by a friend which I found really helpful and also very underrated!  
+* [Article on Cybersecurity](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security) ---
+  Extra reading material on what is Cybersecurity.
+ 
 <br>
 <br>
 #### REV: Wed 07 Sep 2024 22:00
