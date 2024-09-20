@@ -51,6 +51,14 @@ permalink: LINKS/
   A video that was referred to me by a friend which I found really helpful and also very underrated!  
 * [Article on Cybersecurity](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security) ---
   Extra reading material on what is Cybersecurity.
+
+### FHS and FUSE - WEEK 03 
+* [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) ---
+  Read straight from the source, from Linux Foundation.
+* [File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html) ---
+  A comprehensive short article about File Systems.
+* [Operating System Concepts: File-System Interface](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch13.pptx) ---
+  Slides from the Textbook on the chapter of File Systems.
  
 <br>
 <br>
