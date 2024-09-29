@@ -59,6 +59,14 @@ permalink: LINKS/
   A comprehensive short article about File Systems.
 * [Operating System Concepts: File-System Interface](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch13.pptx) ---
   Slides from the Textbook on the chapter of File Systems.
+
+### Addressing, Shared Lib, & Pointer - WEEK 04
+* [Week 04: Addressing, Shared Lib, & Pointer](https://docos.vlsm.org/Slides/os04.pdf) ---
+  Slides for this topic. 
+* [Class Recording for Week 04](https://www.youtube.com/watch?v=uFj7mKNq1t0&feature=youtu.be) ---
+  Class recording from Sir Anwar. 
+* [Variable Partitioning in Operation System](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/) ---
+  Article on Linux Partitioning.
  
 <br>
 <br>
