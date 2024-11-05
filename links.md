@@ -74,6 +74,20 @@ permalink: LINKS/
 * [Class Recording for Week 05-1](https://www.youtube.com/watch?v=E7pmf5pySTM&feature=youtu.be) ---
   Class recording from Sir Anwar.
 
+### Concurrency: Processes & Threads - WEEK 06
+* [Week 06: Concurrency: Processes & Threads](https://docos.vlsm.org/Slides/os06.pdf) ---
+  Slides for this topic.
+* [Process & Concurrency](https://www.youtube.com/watch?v=-pL2fAdb7Kw&feature=youtu.be) ---
+  Class recording from Sir Anwar.
+
+### Synchronization & Deadlock - WEEK 07
+* [Week 07: Synchronization & Deadlock](https://docos.vlsm.org/Slides/os07.pdf) ---
+  Slides for this topic.
+* [Threads & Syncs 212](https://www.youtube.com/watch?v=Z5D3z3AzXII) ---
+  Class recording from Sir Anwar.
+* [Final W07](https://rms46.vlsm.org/2/202.pdf) ---
+  Practice questions for WEEK 07
+
 <br>
 <br>
 #### REV: Sun 15 Sep 2024 11:00
