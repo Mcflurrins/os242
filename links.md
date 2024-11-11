@@ -88,8 +88,17 @@ permalink: LINKS/
 * [Final W07](https://rms46.vlsm.org/2/202.pdf) ---
   Practice questions for WEEK 07
 
+### Scheduling - WEEK 08
+* [Week 08: Scheduling + W06/W07](https://docos.vlsm.org/Slides/os08.pdf) ---
+  Slides for this topic.
+* [Threads & Syncs 212](https://www.youtube.com/watch?v=Gzic0dI3qQc) ---
+  Class recording from Sir Anwar.
+* [Final W08](https://rms46.vlsm.org/2/203.pdf) ---
+  Practice questions for WEEK 08
+
 <br>
 <br>
 #### REV: Sun 15 Sep 2024 11:00
 #### Flori Andrea Ng 2306171713
+
 <hr>
